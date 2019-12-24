@@ -2,3 +2,7 @@ body{
     background-image: url('http://i0.kym-cdn.com/photos/images/original/001/268/278/b8c.gif');
     background-size: cover;
 }
+p{
+    font-size:20px;
+    font-weight: bold;
+}
